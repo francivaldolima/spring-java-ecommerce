@@ -6,6 +6,7 @@
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
 [![GitHub issues](https://img.shields.io/github/issues/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/issues)
 [![GitHub forks](https://img.shields.io/github/forks/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/network)
 [![GitHub stars](https://img.shields.io/github/stars/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/stargazers)
